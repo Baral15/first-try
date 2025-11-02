@@ -1,3 +1,4 @@
 # first-try
-my first
+my first git repository.
+<br>
 Author Manish
